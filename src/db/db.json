@@ -1,0 +1,15 @@
+{
+  "donors": [
+    {
+      "id": 1,
+      "name": "John Doee",
+      "dateOfBirth": "1990-05-15",
+      "address": "123 Main Street",
+      "city": "Example City",
+      "state": "Example State",
+      "mobile": "1234567890",
+      "bloodGroup": "O+",
+      "lastDonatedDate": "2023-11-15"
+    }
+  ]
+}
